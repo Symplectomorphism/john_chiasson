@@ -1,0 +1,30 @@
+---
+pagetitle: "John Chiasson: An American Treasure"
+author-meta: "Aykut C. Satici"
+institute: "Boise State University"
+from: markdown+emoji
+format:
+    revealjs:
+        css: styles.css
+        html-math-method: mathjax
+        controls: true
+        smaller: false
+        slide-number: true
+        footer: "John Chiasson: An American Treasure • Aykut C. Satici"
+        chalkboard:
+            buttons: false
+        preview-links: auto
+        theme: [simple, custom.scss]
+        standalone: false
+        self-contained: false
+        plugins:
+            - RevealNotes
+            - RevealAnimate
+        pointer:
+            pointerSize: 18
+            color: '#32cd32'
+revealjs-plugins:
+    - pointer
+---
+
+{{< include ./contents/_frontmatter.qmd >}}
