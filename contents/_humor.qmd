@@ -1,0 +1,20 @@
+## John's Pervasive Humor
+
+::::  {layout="[1, 1]"}
+
+::: {.r-stack}
+
+![](./media/aykuts_email/SeeYouLaterAlligator.jpg){fig-align="center" .fragment .fade-in-then-out}
+
+![](./media/aykuts_email/dumb.jpg){.fragment}
+
+:::
+
+
+::: {.r-stack}
+
+![](./media/aykuts_email/Math.jpg){width="40%" fig-align="center"}
+
+:::
+
+::::

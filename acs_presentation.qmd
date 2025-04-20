@@ -7,12 +7,13 @@ format:
     revealjs:
         css: styles.css
         html-math-method: mathjax
+        # embed-resources: true
         controls: true
         smaller: false
         slide-number: true
         footer: "John Chiasson: An American Treasure • Aykut C. Satici"
-        chalkboard:
-            buttons: false
+        # chalkboard:
+        #     buttons: false
         preview-links: auto
         theme: [simple, custom.scss]
         standalone: false
@@ -23,6 +24,27 @@ format:
         pointer:
             pointerSize: 18
             color: '#32cd32'
+        include-in-header:
+          text: |
+            <style>
+            .center-xy {
+              margin: 0;
+              position: relative;
+              top: 50%;
+              left: 50%;
+              -ms-transform: translateY(-50%), translateX(-50%);
+              transform: translateY(-50%), translateX(-50%);
+            }
+            </style>
+            <style>
+            .center-x {
+              margin: 0;
+              position: relative;
+              left: 50%;
+              -ms-transform: translateX(-50%);
+              transform: translateX(-50%);
+            }
+            </style>
 revealjs-plugins:
     - pointer
 ---
@@ -31,8 +53,10 @@ revealjs-plugins:
 
 {{< include ./contents/_academia.qmd >}}
 
-{{< include ./contents/_love_of_nature.qmd >}}
+{{< include ./contents/_humor.qmd >}}
 
 {{< include ./contents/_mentorship.qmd >}}
+
+{{< include ./contents/_love_of_nature.qmd >}}
 
 {{< include ./contents/_rigor.qmd >}}

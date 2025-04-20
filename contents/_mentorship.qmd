@@ -1,0 +1,16 @@
+## John's Kind and Passionate Mentorship
+
+::: {.r-stack}
+::: {.fragment .fade-in-then-out}
+{{< pdf ./media/uav_page1.pdf width=600 height=600 align="center" >}}
+:::
+
+::: {.fragment .fade-in-then-out}
+::::  {layout="[1, 1]"}
+![](./media/alex/DSC_1750-Edit.jpg)
+
+![](./media/alex/PXL_20210916_150907007.MP.jpg)
+::::
+:::
+
+:::
