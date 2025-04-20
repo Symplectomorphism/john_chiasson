@@ -1,0 +1,25 @@
+## Early Years: Fourishing Academician
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+* B.S. in Mathematics from the University of Arizona
+* M.S. in Electrical Engineering from Washington State University
+* Ph.D. in Control Sciences from the University of Minnesota
+
+![](./media/from_family/PhotoScan5.jpg){width="40%" fig-align="center"}
+
+:::
+
+::: {.column width="50%"}
+
+![](./media/from_family/IMG_0018.jpeg){width="40%" fig-align="center"}
+
+![](./media/from_family/IMG_0020.jpeg){width="40%" fig-align="center"}
+
+![](./media/from_family/IMG_0022.jpeg){width="40%" fig-align="center"}
+
+:::
+
+::::
