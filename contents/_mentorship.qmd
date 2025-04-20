@@ -1,9 +1,24 @@
+## John's Academic Legacy
+
+
+::::  {layout="[1, 1]"}
+* John had an h-index of 52!
+* John was top 1% scientist worldwide, identified by Stanford University in 2021!
+<a href="https://www.intechopen.com/news/stanford-university-identifies-top-2-scientists-over-1-000-are-intechopen-authors-and-editors-20210122" target="_blank">[source]</a>
+* His self-citation rate was 2.94%!
+* His book _Modeling and high performance control of electric machines_ was
+the only book I could learn this subject from - truly a masterpiece!
+  * It has 803 citations so far.
+* He was a rigorous author: produced three more books of incredible depth and precision!
+
+{{< pdf ./media/uav_page1.pdf width=600 height=550 align="center" >}}
+::::
+
+
 ## John's Kind and Passionate Mentorship
 
 ::: {.r-stack}
-::: {.fragment .fade-in-then-out}
-{{< pdf ./media/uav_page1.pdf width=600 height=600 align="center" >}}
-:::
+
 
 ::: {.fragment .fade-in-then-out}
 ::::  {layout="[1, 1]"}
@@ -26,6 +41,14 @@
 ![](./media/ruthviks_graduation/50353826_00102_0031_scaled.jpg){height="50%"}
 
 ![](./media/ruthviks_graduation/50353826_00102_0032_scaled.jpg){heigth="50%"}
+::::
+:::
+
+::: {.fragment .fade-in-then-out}
+::::  {layout="[1, 1]"}
+<img src="./media/nardos/photos/nardos_elephant.jpg" width="555">
+
+{{< video ./media/nardos/photos/1000125949.mp4 height=500 >}}
 ::::
 :::
 

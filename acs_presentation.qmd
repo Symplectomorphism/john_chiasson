@@ -59,4 +59,4 @@ revealjs-plugins:
 
 {{< include ./contents/_love_of_nature.qmd >}}
 
-{{< include ./contents/_rigor.qmd >}}
+{{< include ./contents/_goodbye.qmd >}}

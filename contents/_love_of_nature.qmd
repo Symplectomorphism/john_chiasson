@@ -20,10 +20,14 @@
 
 ::: {.fragment .fade-in-then-out}
 ::::  {layout="[1, 1]"}
-![](./media/aykuts_phone/IMG-20241005-WA0022.jpeg)
+<img src="./media/aykuts_phone/IMG-20241005-WA0022.jpeg" width="400">
 
-![](./media/aykuts_phone/IMG-20241016-WA0000.jpeg)
+<img src="./media/aykuts_phone/IMG-20241016-WA0000.jpeg" width="400">
 ::::
+:::
+
+::: {.fragment .fade-in}
+<img src="./media/nardos/photos/stanley.jpg" width="850">
 :::
 
 

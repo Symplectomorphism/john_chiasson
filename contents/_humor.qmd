@@ -1,19 +1,35 @@
 ## John's Pervasive Humor
 
+
+
+
 ::::  {layout="[1, 1]"}
 
 ::: {.r-stack}
 
+::: {.fragment .fade-in-then-out}
+{{< video ./media/aykuts_phone/itamar_50.mp4 width=500 >}}
+
+{{< video ./media/aykuts_email/Doug70_JohnChiasson.mp4 width=500 >}}
+:::
+
+
 ![](./media/aykuts_email/SeeYouLaterAlligator.jpg){fig-align="center" .fragment .fade-in-then-out}
 
-![](./media/aykuts_email/dumb.jpg){.fragment}
+:::{.fragment .fade-in-then-out}
+<center>
+<img src="./media/aykuts_email/dumb.jpg" width="200">
+</center>
+:::
 
 :::
 
 
 ::: {.r-stack}
 
-![](./media/aykuts_email/Math.jpg){width="40%" fig-align="center"}
+<center>
+<img src="./media/aykuts_email/Math.jpg" width="500">
+</center>
 
 :::
 
