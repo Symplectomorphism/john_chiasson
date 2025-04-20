@@ -1,0 +1,30 @@
+## John loved to travel and appreciate nature
+
+::: {.r-stack}
+
+::: {.fragment .fade-in-then-out}
+::::  {layout="[1, 1]"}
+![](./media/aykuts_phone/IMG_20241005_123302.jpg)
+
+![](./media/aykuts_phone/IMG_20241017_110906.jpg)
+::::
+:::
+
+::: {.fragment .fade-in-then-out}
+::::  {layout="[1, 1]"}
+![](./media/ZachA_Photos/PXL_20210808_173756888.jpg)
+
+![](./media/ZachA_Photos/PXL_20210808_173754387.jpg)
+::::
+:::
+
+::: {.fragment .fade-in-then-out}
+::::  {layout="[1, 1]"}
+![](./media/aykuts_phone/IMG-20241005-WA0022.jpeg)
+
+![](./media/aykuts_phone/IMG-20241016-WA0000.jpeg)
+::::
+:::
+
+
+:::

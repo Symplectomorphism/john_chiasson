@@ -13,4 +13,20 @@
 ::::
 :::
 
+::: {.fragment .fade-in-then-out}
+::::  {layout="[1, 1]"}
+![](./media/wankun/hooding.jpg){height="50%"}
+
+![](./media/wankun/graduation.jpg){heigth="50%"}
+::::
+:::
+
+::: {.fragment .fade-in-then-out}
+::::  {layout="[1, 1]"}
+![](./media/ruthviks_graduation/50353826_00102_0031_scaled.jpg){height="50%"}
+
+![](./media/ruthviks_graduation/50353826_00102_0032_scaled.jpg){heigth="50%"}
+::::
+:::
+
 :::
