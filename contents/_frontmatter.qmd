@@ -9,35 +9,13 @@ institute: "Boise State University"
 
 <hr>
 
-::: {.r-stack style="font-size: 30px"}
-<br>
-<span style="font-weight: bold;">UT Dallas Seminar</span>
-:::
-
-::: {.center}
-![](./contents/assets/UT_Dallas_2_Color_Emblem.svg){width="9%" fig-align="center"}
-:::
-
-
-<br/>
 
 ::: {layout="[50, 50, 50]"}
-<span style="margin-left: 72px">__Presenter__:</span> <br>
-<span style="margin-left: 72px">Aykut Satici, Ph.D.</span> <br>
-<span style="margin-left: 72px">Associate Professor</span> <br>
-<span style="margin-left: 72px">Director, Robot Control Lab</span> <br>
-<span style="margin-left: 72px">Mechanical and Biomed. Eng.</span> <br>
-<span style="margin-left: 72px">Boise, Idaho, USA</span>
+![](./media/from_family/PhotoScan31.jpg){width="10%" fig-align="center"}
 
+![](./media/aykuts_phone/IMG_20220916_142001.jpg){width="40%" fig-align="center"}
 
-![](./contents/assets/boisestate-stackedlogo-2color-rgb_v2.png){width="40%" fig-align="center"}
-
-__Graduate Students__: <br/>
-:thailand: Wankun Sirichotiyakul :mortar_board: <br/>
-:ethiopia: Nardos Ayele Ashenafi :mortar_board: <br/>
-:us: Alex Peterson :mortar_board: <br/>
-:us: Chandika Silva :mortar_board: <br/>
-:us: Chris Dagher :mortar_board: <br/>
+![](./media/aykuts_phone/IMG-20240121-WA0004.jpg){width="40%" fig-align="center"}
 :::
 
 ::: {.notes}

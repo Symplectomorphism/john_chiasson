@@ -28,3 +28,11 @@ revealjs-plugins:
 ---
 
 {{< include ./contents/_frontmatter.qmd >}}
+
+{{< include ./contents/_academia.qmd >}}
+
+{{< include ./contents/_love_of_nature.qmd >}}
+
+{{< include ./contents/_mentorship.qmd >}}
+
+{{< include ./contents/_rigor.qmd >}}
