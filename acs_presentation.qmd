@@ -53,9 +53,9 @@ revealjs-plugins:
 
 {{< include ./contents/_academia.qmd >}}
 
-{{< include ./contents/_humor.qmd >}}
-
 {{< include ./contents/_mentorship.qmd >}}
+
+{{< include ./contents/_humor.qmd >}}
 
 {{< include ./contents/_love_of_nature.qmd >}}
 
