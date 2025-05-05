@@ -1,0 +1,6 @@
+
+\begin{thenomenclature} 
+\nomgroup{A}
+  \item [{$\bm{q}$}]\begingroup Position vector from the inertial frame $\Sigma_0$ to the center of mass of the drone.\nomeqref {0}\nompageref{1}
+
+\end{thenomenclature}

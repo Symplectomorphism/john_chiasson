@@ -1,0 +1,30 @@
+
+\begin{thenomenclature} 
+\nomgroup{A}
+  \item [{$a, b$}]\begingroup Indices referring to arbitrary frames (e.g. $\Sigma_A$, $\Sigma_B$)\nomeqref {0}\nompageref{1}
+  \item [{$\Sigma_0$}]\begingroup Inertial coordinate frame with origin $o_0$\nomeqref {0}\nompageref{1}
+  \item [{$\Sigma_W$}]\begingroup Wire coordinate frame with origin $o_w$\nomeqref {0}\nompageref{1}
+  \item [{$\Sigma_D$}]\begingroup Drone coordinate frame at the CoM $o_d$\nomeqref {0}\nompageref{1}
+  \item [{$\Sigma_E$}]\begingroup End-effector frame with origin $o_e$\nomeqref {0}\nompageref{1}
+  \item [{$\bm{p}_{ab}$}]\begingroup Pos. vector from $o_a$ to $o_b$\nomeqref {0}\nompageref{1}
+  \item [{$\bm{R}_{ab}$}]\begingroup Rotation matrix transforming ($\Sigma_B \rightarrow \Sigma_A$)\nomeqref {0}\nompageref{1}
+  \item [{$\bm{T}_{ab}$}]\begingroup Hom. transformation ($\Sigma_B \rightarrow \Sigma_A$)\nomeqref {0}\nompageref{1}
+  \item [{$\bm{v}_{ab}$}]\begingroup Body linear velocity of $\Sigma_B$ ($=\bm{R}_{ab}^\top \dot{\bm{p}}_{ab}$)\nomeqref {0}\nompageref{1}
+  \item [{$\bm{\omega}_{ab}$}]\begingroup Body angular velocity of $\Sigma_B$ w.r.t. $\Sigma_A$\nomeqref {0}\nompageref{1}
+  \item [{$\bm{V}_{ab}$}]\begingroup Body twist of $\Sigma_B$ w.r.t. $\Sigma_A$($= \bmat{\bm{\omega}^\top_{ab} & \bm{v}^\top_{ab}}^\top$)\nomeqref {0}\nompageref{1}
+\nomgroup{B}
+  \item [{$\bm{f}$}]\begingroup Drone thrust force ($ = f \bm{z}_d$, $f < 0$, specified in $\Sigma_D$)\nomeqref {0}\nompageref{1}
+  \item [{$\bm{\tau}$}]\begingroup Drone torque (specified in $\Sigma_D$)\nomeqref {0}\nompageref{1}
+  \item [{$\bm{F}$}]\begingroup Drone wrench ($= \bmat{ \bm{\tau}^\top & \bm{f}^\top}^\top$)\nomeqref {0}\nompageref{1}
+\nomgroup{C}
+  \item [{$\bm{f}_e$}]\begingroup Contact force on the drone (specified in $\Sigma_E$)\nomeqref {0}\nompageref{1}
+  \item [{$\bm{\tau}_e$}]\begingroup Contact torque on the drone (specified in $\Sigma_E$)\nomeqref {0}\nompageref{1}
+  \item [{$\bm{F}_e$}]\begingroup Contact wrench on the drone (specified in $\Sigma_E$)\nomeqref {0}\nompageref{1}
+\nomgroup{Z}
+  \item [{$\bm{g}$}]\begingroup Gravitational acceleration vector (specified in $\Sigma_0$)\nomeqref {0}\nompageref{1}
+  \item [{$m$}]\begingroup Mass of the drone\nomeqref {0}\nompageref{1}
+  \item [{$\bm{J}$}]\begingroup Inertia matrix of the drone (specified in $\Sigma_D$)\nomeqref {0}\nompageref{1}
+  \item [{$m_w$}]\begingroup Mass of the wire\nomeqref {0}\nompageref{1}
+  \item [{$J_w$}]\begingroup Inertia matrix of the wire about the pole along its $\bm{y}_w-$axis\nomeqref {0}\nompageref{1}
+
+\end{thenomenclature}

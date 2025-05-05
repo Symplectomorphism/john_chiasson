@@ -1,0 +1,29 @@
+\section{Training a Controller} 
+\label{sec:control}
+%
+The controller training can be thought of in two different settings, one in 
+which no reference trajectory is provided, and one is. Training without a 
+reference trajectory needs to explore the state space in order not get stuck at 
+local minima. This can be facilitated by the initial condition selection 
+described in Section~\ref{sec:sampling}. Training with a reference trajectory 
+does not necessitate such extensive initialization strategies, but it does 
+require the implementation of the reference trajectory, as described in
+Section~\ref{sec:reftraj} as well as a routine to provide the reference
+trajectory for a time horizon (a hyperparameter) starting from a given initial
+state.
+
+% A na\"{i}ve routine can be devised by assuming a quasi-static motion, whereby we
+% determine which phase (Section~\ref{sec:frame0to1}-\ref{sec:frame6to7}) we are
+% in by checking the current locations of the box and the manipulator in the world
+% frame.
+
+A na\"{i}ve routine can be devised by assuming a quasi-static motion, whereby we
+determine the desired pose of the box and the manipulator by minimizing a 
+Euclidean distance between the current pose and a trajectory determined by 
+following Section~\ref{sec:reftraj}. 
+
+\todo[inline]{Alternatively, we generate a new desired trajectory starting from
+an appropriate projection of the current state!}
+
+\todo[inline]{Or, simply just penalize a time-parametrization of the 
+current motion and the reference motion starting from the initial condition.}
