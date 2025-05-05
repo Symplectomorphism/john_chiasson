@@ -1,36 +1,38 @@
 ## John's Pervasive Humor
 
+:::: {.columns}
+::: {.column width="50%"}
+&nbsp;
 
-
-
-::::  {layout="[1, 1]"}
-
-::: {.r-stack}
-
-::: {.fragment .fade-in-then-out}
-{{< video ./media/aykuts_phone/itamar_50.mp4 width=500 >}}
-
-{{< video ./media/aykuts_email/Doug70_JohnChiasson.mp4 width=500 >}}
+![](./media/aykuts_email/SeeYouLaterAlligator.jpg){fig-align="center"}
 :::
 
-
-![](./media/aykuts_email/SeeYouLaterAlligator.jpg){fig-align="center" .fragment .fade-in-then-out}
-
-:::{.fragment .fade-in-then-out}
+::: {.column width="50%"}
 <center>
 <img src="./media/aykuts_email/dumb.jpg" width="200">
 </center>
 :::
 
+::::
+
+
+## John's Pervasive Humor
+
+
+:::: {.columns}
+
+::: {.column width="50%"}
+{{< video ./media/aykuts_phone/itamar_50.mp4 width=500 >}}
+
+&nbsp;
+
+{{< video ./media/aykuts_email/Doug70_JohnChiasson.mp4 width=500 >}}
 :::
 
-
-::: {.r-stack}
-
+::: {.column width="50%"}
 <center>
 <img src="./media/aykuts_email/Math.jpg" width="500">
 </center>
-
 :::
 
 ::::

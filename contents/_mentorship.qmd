@@ -20,7 +20,7 @@ the only book I could learn this subject from - truly a masterpiece!
 ::: {.r-stack}
 
 
-::: {.fragment .fade-in-then-out}
+::: {.fragment .fade-out}
 ::::  {layout="[1, 1]"}
 ![](./media/alex/DSC_1750-Edit.jpg)
 
@@ -45,7 +45,7 @@ the only book I could learn this subject from - truly a masterpiece!
 :::
 
 ::: {.fragment .fade-in-then-out}
-::::  {layout="[1, 1]"}
+::::  {layout="[2, 1]"}
 <img src="./media/nardos/photos/nardos_elephant.jpg" width="555">
 
 {{< video ./media/nardos/photos/1000125949.mp4 height=500 >}}

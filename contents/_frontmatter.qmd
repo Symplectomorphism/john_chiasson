@@ -4,19 +4,40 @@ author-meta: "Aykut C. Satici"
 institute: "Boise State University"
 ---
 
-## John Chiasson: An American Treasure {.center .smaller}
+<!-- ## John Chiasson: An American Treasure {.center .smaller} -->
 <!-- ###################################################################### -->
 
-<hr>
+<!--hr-->
+
+::: {.fragment .fade-out}
+![](./media/misc/john_facebook2.png){width="66%" fig-align="center"}
+:::
 
 
-::: {layout="[50, 50, 50]"}
+## John Chiasson: An American Treasure {.center .smaller}
+
+:::: {.r-stack}
+
+::: {layout="[40, 60]" .fragment .fade-in-then-out}
 ![](./media/from_family/PhotoScan31.jpg){width="10%" fig-align="center"}
+
+![](./media/from_family/IMG_0029.jpeg){width="50%" fig-align="center"}
+:::
+
+::: {layout="[40, 60]" .fragment .fade-in-then-out}
 
 ![](./media/aykuts_phone/IMG_20220916_142001.jpg){width="40%" fig-align="center"}
 
 ![](./media/aykuts_phone/IMG-20240121-WA0004.jpg){width="40%" fig-align="center"}
 :::
+
+::: {layout="[50, 50]" .fragment}
+![](./media/aykuts_email/IMG_20210612_114721.jpg){width="50%" fig-align="center"}
+
+![](./media/aykuts_phone/IMG_20250503_152951.jpg){width="50%" fig-align="center"}
+:::
+
+::::
 
 ::: {.notes}
 * Produced several ECE and MBE MS and PhDs.
