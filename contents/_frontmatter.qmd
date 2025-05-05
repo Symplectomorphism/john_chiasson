@@ -31,10 +31,10 @@ institute: "Boise State University"
 ![](./media/aykuts_phone/IMG-20240121-WA0004.jpg){width="40%" fig-align="center"}
 :::
 
-::: {layout="[50, 50]" .fragment}
+::: {layout="[45, 55]" .fragment}
 ![](./media/aykuts_email/IMG_20210612_114721.jpg){width="50%" fig-align="center"}
 
-![](./media/aykuts_phone/IMG_20250503_152951.jpg){width="50%" fig-align="center"}
+![](./media/aykuts_phone/IMG_20250504_215855.jpg){width="50%" fig-align="center"}
 :::
 
 ::::
