@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1746490330 "/home/icute/repos/john_chiasson/program/main.tex" "main.pdf" "main" 1746490331 0
-  "/home/icute/repos/john_chiasson/program/main.tex" 1746490330 6285 5079451913104f1822fee84a311fc20e ""
+["pdflatex"] 1746540795 "/home/icute/repos/john_chiasson/program/main.tex" "main.pdf" "main" 1746540796 0
+  "/home/icute/repos/john_chiasson/program/main.tex" 1746540795 6275 2599760f3330d22a739bbcff7b6d192c ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/carlito/crlt_ys3vdn.enc" 1664999222 3036 b1e8e675b66735cd359ae1785943f688 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/google/carlito/Crlt-Bold-lf-t1--base.tfm" 1664999222 1788 7a5272d1d8731520512d84b4ca2cbc8c ""
@@ -176,9 +176,9 @@
   "conferencebooklet.cls" 1746484816 10374 d78ebf511c94ae73dd0d6a9824867441 ""
   "images/cropped_jc.pdf" 1746484816 751356 78e24d056520ecdd6441b0c83039db9a ""
   "images/stueckle_map.jpeg" 1746484816 1333869 949a7fed7585e39bb9220236c5f93bd4 ""
-  "main.aux" 1746490330 1809 720c1b55761cbf91956bafa138c7a65d "pdflatex"
-  "main.out" 1746490330 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1746490330 6285 5079451913104f1822fee84a311fc20e ""
+  "main.aux" 1746540796 1809 720c1b55761cbf91956bafa138c7a65d "pdflatex"
+  "main.out" 1746540796 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1746540795 6275 2599760f3330d22a739bbcff7b6d192c ""
   (generated)
   "main.aux"
   "main.log"
