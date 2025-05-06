@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1746454269 "/home/icute/repos/john_chiasson/script/root.tex" "root.pdf" "root" 1746454270 0
-  "/home/icute/repos/john_chiasson/script/root.tex" 1746454269 4229 c8ebeac9114fdfe431a499fee20f9b47 ""
+["pdflatex"] 1746494882 "/home/icute/repos/john_chiasson/script/root.tex" "root.pdf" "root" 1746494883 0
+  "/home/icute/repos/john_chiasson/script/root.tex" 1746494882 6956 eb8a2df226d9f44587287129d6a95956 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/helvetic/phvr7t.tfm" 1136768653 2520 53e01eef820ca829e42c1333c3fd02b9 ""
@@ -254,9 +254,9 @@
   "ieee-css-logo-abrv.eps" 1743910756 1129526 76e0269e1e0b52048bc1c4bdac93398a ""
   "ieeecolor.cls" 1743910756 224798 726df81bc8f46b967241edbae4553d2a ""
   "preamble.tex" 1746453463 6273 a6e22cf3457ce2ecd6332e1f09cd3497 ""
-  "root.aux" 1746454270 1093 3f37e3b8de180ce69034c657c7c39705 "pdflatex"
-  "root.out" 1746454270 168 a576de290f5c7239a4d077e149bcc963 "pdflatex"
-  "root.tex" 1746454269 4229 c8ebeac9114fdfe431a499fee20f9b47 ""
+  "root.aux" 1746494883 1620 0acf7e1ca26100b71ab25ee30d9938b7 "pdflatex"
+  "root.out" 1746494883 378 25078fb051b09a40376c457db16152a8 "pdflatex"
+  "root.tex" 1746494882 6956 eb8a2df226d9f44587287129d6a95956 ""
   (generated)
   "root.aux"
   "root.log"

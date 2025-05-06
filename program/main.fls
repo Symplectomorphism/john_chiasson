@@ -551,6 +551,8 @@ INPUT ./images/cropped_jc.pdf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/google/carlito/Crlt-Bold-lf-t1.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/google/carlito/Crlt-Bold-lf-t1.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/google/carlito/Crlt-lf-t1.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/google/carlito/Crlt-lf-t1.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/google/carlito/Crlt-Bold-lf-t1.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/google/carlito/Crlt-Bold-lf-t1.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/google/carlito/Crlt-Bold-lf-t1--base.tfm
 INPUT /usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map
@@ -559,6 +561,8 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/google/carlito/Crlt-lf-t1.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/google/carlito/Crlt-lf-t1--base.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/google/carlito/Crlt-Bold-lf-t1.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/google/carlito/Crlt-Bold-lf-t1--base.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/google/carlito/Crlt-lf-t1.vf
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/google/carlito/Crlt-lf-t1--base.tfm
 INPUT ./images/stueckle_map.jpeg
 INPUT images/stueckle_map.jpeg
 INPUT ./images/stueckle_map.jpeg
