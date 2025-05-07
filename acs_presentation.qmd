@@ -59,4 +59,6 @@ revealjs-plugins:
 
 {{< include ./contents/_love_of_nature.qmd >}}
 
+{{< include ./contents/_remarks.qmd >}}
+
 {{< include ./contents/_goodbye.qmd >}}

@@ -9,7 +9,7 @@
 
 ::: {.column width="50%"}
 <center>
-<img src="./media/aykuts_email/dumb.jpg" width="200">
+<img src="./media/aykuts_email/Math.jpg" width="500">
 </center>
 :::
 
@@ -21,18 +21,43 @@
 
 :::: {.columns}
 
-::: {.column width="50%"}
+::: {.column width="55%"}
+::: {.r-stack}
+
+::: {.fragment .fade-out fragment-index=1}
 {{< video ./media/aykuts_phone/itamar_50.mp4 width=500 >}}
-
 &nbsp;
-
 {{< video ./media/aykuts_email/Doug70_JohnChiasson.mp4 width=500 >}}
 :::
 
-::: {.column width="50%"}
+::: {.fragment .fade-in fragment-index=2}
 <center>
-<img src="./media/aykuts_email/Math.jpg" width="500">
+<img src="./media/aykuts_phone/big_bad_john_lyrics.jpg" height="600">
 </center>
+:::
+:::
+:::
+
+::: {.column width="45%"}
+::: {.r-stack}
+
+::: {.fragment .fade-out fragment-index=1}
+<center>
+<img src="./media/aykuts_phone/theoretical_experimental_cropped.jpg" width="600">
+</center>
+:::
+
+::: {.fragment .fade-in fragment-index=2}
+{{< video https://youtu.be/KnnHprUGKF0?si=SyCw0G4qRnlSb_Kd width="500" height="360" >}}
+
+
+<center>
+<img src="./media/aykuts_phone/big_bad_john_photo.jpg" width="500">
+</center>
+:::
+
+:::
+
 :::
 
 ::::

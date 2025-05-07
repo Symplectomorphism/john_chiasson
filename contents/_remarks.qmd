@@ -1,0 +1,39 @@
+## In Memory of John Chiasson
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+::: {.fragment .semi-fade-out fragment-index=1}
+::: {.callout-tip icon="false"}
+## Mark W. Spong
+Professor of Systems Engineering and Electrical and Computer Engineering
+in the Erik Jonsson School of Engineering and Computer Science at The University of Texas at Dallas
+
+<center>
+<img src="./media/spong-mark-2011-05.jpg" width="250">
+</center>
+:::
+:::
+
+:::
+
+::: {.column width="50%"}
+
+::: {.fragment .fade-in-then-semi-out fragment-index=1}
+::: {.callout-tip icon="false"}
+## Pramod Khargonekar
+Vice Chancellor for Research and Distinguished Professor of Electrical
+Engineering and Computer Science at the University of California, Irvine
+
+&nbsp;
+
+<center>
+<img src="./media/Pramod-p-khargonekar-uci.jpg" width="250">
+</center>
+:::
+:::
+
+:::
+
+::::
