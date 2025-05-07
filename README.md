@@ -1,3 +1,6 @@
-# Memories of John Chiasson
+# John Nelson Chiasson will always be with us!
 
-If you have any memories you want to share of the late and great John Chiasson, please upload them into this repository.
+We held the memorial for John on May 7, 2025 at Boise State University.  
+His kindness, humor, and complete lack of pretense will always live on in my
+heart.  
+Goodbye, Old Man and the Sea!
